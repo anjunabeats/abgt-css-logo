@@ -1,3 +1,3 @@
-$(window).load(function () {
-  $("body").addClass("animate");
+document.addEventListener('DOMContentLoaded', function() {
+  document.body.classList.add('animate');
 });
